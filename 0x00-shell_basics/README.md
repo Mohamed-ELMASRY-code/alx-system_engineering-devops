@@ -8,4 +8,5 @@
 (mv) = > to move or rename file or directory 
 (rm) = > to remove file
 (rm -r) = > to remove directory
-(cd -) = >  changes the working directory to the previous one.  
+(cd -) = >  changes the working directory to the previous one.
+(file) = > prints the type of the file  
