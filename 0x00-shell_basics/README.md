@@ -13,3 +13,5 @@
 (ln) = > Create a symbolic link
 (cp) = > copy file or directory
 ( mv [[:upper:]] ) =  > script that moves all files beginning with an uppercase letter to the directory  
+(rm *~) = > script that deletes all files in the current working directory that end with the character ~
+(mkdir -p) = > Instead of creating the missing parent directories one by one, it creates the missing ones in order
