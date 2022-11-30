@@ -7,4 +7,5 @@
 (mkdir) = > to make directory 
 (mv) = > to move or rename file or directory 
 (rm) = > to remove file
-(rm -r) = > to remove directory  
+(rm -r) = > to remove directory
+(cd -) = >  changes the working directory to the previous one.  
