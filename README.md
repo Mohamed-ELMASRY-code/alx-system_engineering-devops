@@ -1,1 +1,1 @@
-tasks for shall basic project 
+task 0  
