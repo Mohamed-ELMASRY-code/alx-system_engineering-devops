@@ -6,4 +6,5 @@
 (ls -lna) = > Display current directory contents. with Long format with user and  group IDs displayed numerically And hidden files (starting with .)
 (mkdir) = > to make directory 
 (mv) = > to move or rename file or directory 
-(rm) = > to remove file 
+(rm) = > to remove file
+(rm -r) = > to remove directory  
