@@ -10,4 +10,5 @@
 (rm -r) = > to remove directory
 (cd -) = >  changes the working directory to the previous one.
 (file) = > prints the type of the file
-(ln) = > Create a symbolic link  
+(ln) = > Create a symbolic link
+(cp) = > copy file or directory  
