@@ -11,4 +11,5 @@
 (cd -) = >  changes the working directory to the previous one.
 (file) = > prints the type of the file
 (ln) = > Create a symbolic link
-(cp) = > copy file or directory  
+(cp) = > copy file or directory
+( mv [[:upper:]] ) =  > script that moves all files beginning with an uppercase letter to the directory  
