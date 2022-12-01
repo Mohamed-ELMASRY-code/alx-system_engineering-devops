@@ -7,4 +7,4 @@
 (chmod --reference) = > copy permission of file to another
 (mkdir) = > to make directory
 (chgrp) = > script that changes the group owner
-
+(telnet towel.blinkenlights.nl) = > script that will play the StarWars IV episode in the terminal.
