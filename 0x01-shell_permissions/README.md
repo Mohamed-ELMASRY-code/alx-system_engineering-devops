@@ -6,3 +6,5 @@
 (chmod) = >  adds execute permission to the owner of the file
 (chmod --reference) = > copy permission of file to another
 (mkdir) = > to make directory
+(chgrp) = > script that changes the group owner
+
