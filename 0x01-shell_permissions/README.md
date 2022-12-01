@@ -4,4 +4,5 @@
 (chown) = > changes the owner of the file
 (touch) = > to creates an empty file
 (chmod) = >  adds execute permission to the owner of the file
+(chmod --reference) = > copy permission of file to another
 
